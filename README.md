@@ -35,6 +35,12 @@
   - [OtterSec Audit (2022-07-22).pdf](./solana/ElfParser_OtterSec_2022-07-22.pdf)
   - [Halborn Audit (2022-08-04).pdf](./solana/ElfParser_Halborn_2022-08-04.pdf)
 
+### Wincode
+
+  - [Neodyme v0.1.2 Audit (2026-02-12).pdf](./solana/Wincode_v0.1.2_Neodyme_Audit.pdf)
+  - [OtterSec v0.1.2 Audit (2026-01-26).pdf](./solana/Wincode_v0.1.2_Ottersec_Audit.pdf)
+  - Assymetric Research v0.1.2 review (2026-01)
+
 ## Solana Program Library
 
 ### Token
@@ -117,3 +123,7 @@
 
   - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
   - [Zellic Audit (2025-06-30).pdf](./spl/ZellicPTokenPinocchioAudit-2025-06-30.pdf)
+
+### solana-bls-signatures crate
+
+  - [Trail of Bits Audit (2026-02-26).pdf](https://github.com/trailofbits/publications/blob/master/reviews/2026-03-anza-blssignatures-securityreview.pdf)
