@@ -39,7 +39,7 @@
 
   - [Neodyme v0.1.2 Audit (2026-02-12).pdf](./solana/Wincode_v0.1.2_Neodyme_Audit.pdf)
   - [OtterSec v0.1.2 Audit (2026-01-26).pdf](./solana/Wincode_v0.1.2_Ottersec_Audit.pdf)
-  - Assymetric Research v0.1.2 review (2026-01)
+  - Asymmetric Research v0.1.2 review (2026-01)
 
 ## Solana Program Library
 
